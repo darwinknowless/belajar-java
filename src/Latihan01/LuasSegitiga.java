@@ -27,3 +27,11 @@ public class LuasSegitiga {
 		System.out.println("Luas = " + luas);
 	}
 }
+
+/*
+ * Variabel luas bertipe data Double, 
+ * berarti nilai yang bisa disimpan adalah Double.
+ * Sedangkan variabel alas dan tinggi bertipe Integer.
+ * Agar hasil operasi data integer dapat disimpan dalam variabel bertipe double, 
+ * maka perlu dikonversi.
+*/
