@@ -3,6 +3,7 @@ package latihan01;
 public class DataDiri {
 
 	public static void main(String[] args) {
+
 		// Membuat variabel
 		String nama, alamat;
 		int usia;
